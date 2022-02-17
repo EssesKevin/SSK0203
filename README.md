@@ -1,5 +1,6 @@
 # SSK0203
-# <>
-  # <head>
-  # <color>
+# <head>
+   # <content>
+    # <Capital>
+     # <>
   
