@@ -1,4 +1,4 @@
 # SSK0203
 # Első commit
-# Kecske hegy
-# halohalo
+# Második commit
+# Harmadik commit
